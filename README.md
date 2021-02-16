@@ -10,6 +10,6 @@ In case of any questions feel free to contact (nora.penzel@gmail.com).
 We want to thank Prof. Vince Calhoun, and Dr. Navin Gupta for sharing their component results with us. 
 
 ### References
-Luo L, Xu L, Jung R, Pearlson G, Adali T, Calhoun VD. Constrained source-based morphometry identifies structural networks associated with default mode network. Brain Connect 2012;2:33–43.
-Lin Q-H, Liu J, Zheng Y-R, Liang H, Calhoun VD. Semiblind spatial ICA of fMRI using spatial constraints. Hum Brain Mapp 2010;31:1076–88.
-Gupta CN, Calhoun VD, Rachakonda S, Chen J, Patel V, Liu J, et al. Patterns of Gray Matter Abnormalities in Schizophrenia Based on an International Mega-analysis. Schizophr Bull 2015;41:1133–42.
+- Luo L, Xu L, Jung R, Pearlson G, Adali T, Calhoun VD. Constrained source-based morphometry identifies structural networks associated with default mode network. Brain Connect 2012;2:33–43.
+- Lin Q-H, Liu J, Zheng Y-R, Liang H, Calhoun VD. Semiblind spatial ICA of fMRI using spatial constraints. Hum Brain Mapp 2010;31:1076–88.
+- Gupta CN, Calhoun VD, Rachakonda S, Chen J, Patel V, Liu J, et al. Patterns of Gray Matter Abnormalities in Schizophrenia Based on an International Mega-analysis. Schizophr Bull 2015;41:1133–42.

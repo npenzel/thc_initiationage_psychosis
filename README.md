@@ -1,7 +1,7 @@
 # Components from Association between age of cannabis initiation and gray matter covariance networks in recent onset psychosis
 
 In this repository you can find the components that were derived in our PRONIA-CIP-publication: "Association between age of cannabis initiation and gray matter
-covariance networks in recent onset psychosis" (Penzel et al., Neuropsychopharmacology, in press, 2021).
+covariance networks in recent onset psychosis" (Penzel et al., Neuropsychopharmacology, in press).
 In our study, we employed group information guided independent component analysis (GIG-ICA) (Luo et al., 2012; Lin et al., 2010) using the GIFT-toolbox (http://mialab.mrn.org/software/gift/). This approach at the same time maximizes independence between the components and minimizes the distance to reference components (components of interest). As we aimed to investigate the effects of the age of cannabis use initiation on brain structures that are reliably associated with schizophrenia we used the 4 components from Gupta et al. (2015) that were significantly different between schizophrenia and healthy controls. Before employing GIG-ICA the reference components were thresholded with the so-called g-mask to reduce the impact of study-specific scanner differences (Koutsouleris, 2018).  
 Our main finding was that the age of cannabis initiation was negatively associated with gray matter volume in the COI9_cerebellum in patients with recent onset psychosis, thus greater gray matter volume in the cerebellum (COI9_cerebellum) was associated with an earlier cannabis consume. 
 
